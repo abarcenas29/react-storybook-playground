@@ -1,0 +1,4 @@
+node_modules
+Components/**/*.*
+!Components/index.js
+!Components/LazyLoading.js
